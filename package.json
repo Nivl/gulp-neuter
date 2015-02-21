@@ -33,6 +33,6 @@
     "source-map": "^0.1.33",
     "async": "~0.2.10",
     "through2": "~0.4.1",
-    "neuter": "~0.1.1"
+    "neuter": "https://github.com/Nivl/node-neuter/archive/master.tar.gz"
   }
 }
