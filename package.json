@@ -23,8 +23,9 @@
   },
   "homepage": "https://github.com/squarewolf/gulp-neuter/",
   "devDependencies": {
-    "mocha": "~1.17.1",
     "async": "~0.2.10",
+    "mocha": "~1.17.1",
+    "neuter": "https://github.com/Nivl/node-neuter/archive/master.tar.gz",
     "should": "~3.1.2"
   },
   "dependencies": {
